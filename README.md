@@ -4,6 +4,7 @@ Bij het uitvoeren van deze opdracht heb ik een tijdlijn gemaakt waarop te zien i
 
 ## Mijn progressie
 
+<img width="1000" alt="Scherm­afbeelding 2022-12-20 om 15 56 45" src="https://user-images.githubusercontent.com/45170095/208696553-5fd39add-9595-488d-b136-9ebbc7442f43.png">
 
 ## Licentie
 
