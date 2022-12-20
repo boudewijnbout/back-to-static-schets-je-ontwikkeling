@@ -1,8 +1,8 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# Back to Static - Schets je ontwikkeling
 
-# Naam deeltaak
+Bij het uitvoeren van deze opdracht heb ik een tijdlijn gemaakt waarop te zien is welke technieken ik tijdens mijn stage zou willen leren en welke soft skills ik hierbij nodig heb om dit te bereiken. Beide zaken heb ik vormgegeven in een tijdlijn van 5 december 2022 tot aan 5 december 2023.
+
+## Mijn progressie
 
 
 ## Licentie
